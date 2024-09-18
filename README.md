@@ -1,3 +1,3 @@
 # First-Repository
 
-This is an edir i made to the read me file
+This is an edit i made to the read me file
